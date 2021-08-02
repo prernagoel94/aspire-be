@@ -1,0 +1,36 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F50C5799-DC2B-4202-8EB8-EF8722AAF961}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="loan/Properties/launchSettings.json">
+    <Files>
+      <File FileName="loan/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="loan/Program.cs" />
+      <File FileName="loan/Properties/PublishProfiles/aspire-loan - Web Deploy.pubxml" />
+      <File FileName="loan/loan.csproj" />
+      <File FileName="loan/loan.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="loan" expanded="True" selected="True">
+            <Node name="loan" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.loan PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
